@@ -13,9 +13,11 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -42,5 +44,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0367-valid-perfect-square](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
