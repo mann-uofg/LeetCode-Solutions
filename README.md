@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
