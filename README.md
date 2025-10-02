@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
