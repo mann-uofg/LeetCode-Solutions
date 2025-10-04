@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [1019-squares-of-a-sorted-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0217-contains-duplicate](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [1019-squares-of-a-sorted-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
