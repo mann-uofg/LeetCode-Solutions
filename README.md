@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0682-baseball-game](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2350-find-closest-number-to-zero) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Interactive
 |  |
