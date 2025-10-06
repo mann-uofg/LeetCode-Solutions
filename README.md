@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0367-valid-perfect-square](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
