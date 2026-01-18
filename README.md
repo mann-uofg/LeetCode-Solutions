@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0792-binary-search) |
 ## Simulation
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0367-valid-perfect-square](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
