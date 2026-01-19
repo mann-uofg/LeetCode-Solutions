@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
