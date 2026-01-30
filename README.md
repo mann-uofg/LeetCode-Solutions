@@ -91,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0367-valid-perfect-square](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
