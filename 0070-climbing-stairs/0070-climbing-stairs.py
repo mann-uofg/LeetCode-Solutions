@@ -1,12 +1,3 @@
-# class Solution:
-#     def __init__(self):
-#         self.memo = {}  # The "Notebook"
-
-#     def climbStairs(self, n: int) -> int:
-#         # 1. Check if we already know the answer in self.memo
-#         # 2. If Base Case, return n
-#         # 3. Calculate, STORE in self.memo, then return
-
 class Solution:
     def __init__(self):
         self.memo = {}
