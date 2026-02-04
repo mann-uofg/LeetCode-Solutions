@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0228-summary-ranges](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0485-max-consecutive-ones](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0645-set-mismatch](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
