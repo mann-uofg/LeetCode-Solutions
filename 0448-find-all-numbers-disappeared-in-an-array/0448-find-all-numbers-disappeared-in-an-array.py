@@ -9,9 +9,6 @@ class Solution:
             else:
                 hashmap[num] = 1
         for num in range(1, len(nums) + 1):
-            if num in hashmap:
-                if hashmap[num] == 0:
-                    result.append(num)
-            else:
+            if num not in hashmap:
                 result.append(num)
         return result
