@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0228-summary-ranges) |
+| [0347-top-k-frequent-elements](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,4 +178,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
