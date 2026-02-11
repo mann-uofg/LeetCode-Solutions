@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
