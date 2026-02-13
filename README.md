@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2043-simple-bank-system](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
 | [2058-concatenation-of-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2350-find-closest-number-to-zero](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2350-find-closest-number-to-zero) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0782-jewels-and-stones](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2043-simple-bank-system](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
 ## String
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0682-baseball-game](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2043-simple-bank-system](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
 | [2058-concatenation-of-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Interactive
 |  |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [2043-simple-bank-system](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
 <!---LeetCode Topics End-->
