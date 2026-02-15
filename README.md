@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2043-simple-bank-system](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Counting Sort
