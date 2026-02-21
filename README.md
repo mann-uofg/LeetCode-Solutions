@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2043-simple-bank-system](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mann-uofg/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
